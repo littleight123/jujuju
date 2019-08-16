@@ -7,6 +7,8 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "echarts": "^4.2.1",
+    "v-charts": "^1.19.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
